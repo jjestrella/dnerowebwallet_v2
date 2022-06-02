@@ -1,0 +1,8 @@
+site_name: dnero.js
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Dnero Network: https://www.dnerochain.org
+theme: readthedocs
+extra_css:
+  - css/styles.css
